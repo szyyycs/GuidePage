@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageView">
+        <attr name="parallaxTransformOutX" format="float"/>
+        <attr name="parallaxTransformOutY" format="float"/>
+
+        <attr name="parallaxTransformInX" format="float"/>
+        <attr name="parallaxTransformInY" format="float"/>
+
+        <attr name="parallaxRotate" format="float"/>
+
+        <attr name="parallaxZoom" format="float"/>
+
+    </declare-styleable>
+
+</resources>
